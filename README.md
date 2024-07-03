@@ -10,6 +10,8 @@ We introduce the **Compositional Evaluation Benchmark (CEB)** with 11,004 sample
 
 The CEB dataset is now publicly available to support further research and development in this critical area.
 
+**[Dataset Files]**: ./data
+
 **[HugginFace Dataset Link]**: [CEB Dataset](https://huggingface.co/datasets/Song-SW/CEB)
 
 We encourage researchers and developers to utilize and contribute to this benchmark to enhance the evaluation and mitigation of biases in LLMs.
