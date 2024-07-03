@@ -1,6 +1,6 @@
 # CEB: A Compositional Evaluation Benchmark for Bias in Large Language Models
 
-![The framework of CEB.](images/framework.pdf)
+![The framework of CEB.](framework.pdf)
 
 This repository contains the data release for the paper [CEB: A Compositional Evaluation Benchmark for Bias in Large Language Models](https://arxiv.org/pdf/2407.02408).
 
