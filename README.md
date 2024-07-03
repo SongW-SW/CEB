@@ -12,3 +12,8 @@ The CEB dataset is now publicly available to support further research and develo
 **[HugginFace Dataset Link]**: [CEB Dataset](https://huggingface.co/datasets/Song-SW/CEB)
 
 We encourage researchers and developers to utilize and contribute to this benchmark to enhance the evaluation and mitigation of biases in LLMs.
+
+
+## Running
+
+Execute the corresponding bash files in ./script
