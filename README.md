@@ -43,7 +43,7 @@ We encourage researchers and developers to utilize and contribute to this benchm
 
 
 ## Configuration
-Before running, specify the configurations (e.g., OpenAI API key) in ./config/config.py.
+Before running, specify the configurations (e.g., OpenAI API key) in ./src/config/config.py.
 
 ## Running
 
