@@ -14,6 +14,31 @@ The CEB dataset is now publicly available to support further research and develo
 
 **[HugginFace Dataset Link]**: [CEB Dataset](https://huggingface.co/datasets/Song-SW/CEB)
 
+**[Dataset Statistics]**:
+
+| **Dataset**            | **Task Type**   | **Bias Type**   | **Age** | **Gender** | **Race** | **Religion** | **Size** |
+|------------------------|-----------------|-----------------|---------|------------|----------|--------------|----------|
+| CEB-Recognition-S      | Recognition     | Stereotyping    | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Selection-S        | Selection       | Stereotyping    | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Continuation-S     | Continuation    | Stereotyping    | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Conversation-S     | Conversation    | Stereotyping    | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Recognition-T      | Recognition     | Toxicity        | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Selection-T        | Selection       | Toxicity        | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Continuation-T     | Continuation    | Toxicity        | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Conversation-T     | Conversation    | Toxicity        | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-Adult              | Classification  | Stereotyping    | No      | Yes        | Yes      | No           | 500      |
+| CEB-Credit             | Classification  | Stereotyping    | Yes     | Yes        | No       | No           | 500      |
+| CEB-Jigsaw             | Classification  | Toxicity        | No      | Yes        | Yes      | Yes          | 500      |
+| CEB-WB-Recognition     | Recognition     | Stereotyping    | No      | Yes        | No       | No           | 792      |
+| CEB-WB-Selection       | Selection       | Stereotyping    | No      | Yes        | No       | No           | 792      |
+| CEB-SS-Recognition     | Recognition     | Stereotyping    | No      | Yes        | Yes      | Yes          | 960      |
+| CEB-SS-Selection       | Selection       | Stereotyping    | No      | Yes        | Yes      | Yes          | 960      |
+| CEB-RB-Recognition     | Recognition     | Stereotyping    | No      | Yes        | Yes      | Yes          | 1000     |
+| CEB-RB-Selection       | Selection       | Stereotyping    | No      | Yes        | Yes      | Yes          | 1000     |
+| CEB-CP-Recognition     | Recognition     | Stereotyping    | Yes     | Yes        | Yes      | Yes          | 400      |
+| CEB-CP-Selection       | Selection       | Stereotyping    | Yes     | Yes        | Yes      | Yes          | 400      |
+
+
 We encourage researchers and developers to utilize and contribute to this benchmark to enhance the evaluation and mitigation of biases in LLMs.
 
 
