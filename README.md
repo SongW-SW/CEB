@@ -10,7 +10,7 @@ We introduce the **Compositional Evaluation Benchmark (CEB)** with 11,004 sample
 
 The CEB dataset is now publicly available to support further research and development in this critical area.
 
-**[Dataset Files]**: ./data
+**[Dataset Files]**: ```./data```
 
 **[HugginFace Dataset Link]**: [CEB Dataset](https://huggingface.co/datasets/Song-SW/CEB)
 
@@ -43,11 +43,11 @@ We encourage researchers and developers to utilize and contribute to this benchm
 
 
 ## Configuration
-Before running, specify the configurations (e.g., OpenAI API key) in ./src/config/config.py.
+Before running, specify the configurations (e.g., OpenAI API key) in ```./src/config/config.py```.
 
 ## Running
 
-Execute the corresponding bash files in ./script. For example, to run the evaluation of an LLM on the conversation task regarding the bias type of stereotyping, execute the following command:
+Execute the corresponding bash files in ```./script```. For example, to run the evaluation of an LLM on the conversation task regarding the bias type of stereotyping, execute the following command:
 
 ```
 bash run_gen_stereotype_conversation.sh
