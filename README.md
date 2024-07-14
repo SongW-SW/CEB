@@ -27,6 +27,10 @@ bash run_gen_stereotype_conversation.sh
 
 The specific LLM for evaluation should be specified in the same bash file.
 
+## Questions
+
+If you encounter any cases and need help, feel free to contact ```sw3wv@virginia.edu``` and ```pw7nc@virginia.edu```. We are more than willing to help!
+
 ## Citation
 
 If you find our work helpful, please kindly consider citing our paper. Thank you so much for your attention!
