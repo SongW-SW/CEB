@@ -42,6 +42,9 @@ The CEB dataset is now publicly available to support further research and develo
 We encourage researchers and developers to utilize and contribute to this benchmark to enhance the evaluation and mitigation of biases in LLMs.
 
 
+## Configuration
+Before running, specify the configurations (e.g., OpenAI API key) in ./config/config.py.
+
 ## Running
 
 Execute the corresponding bash files in ./script. For example, to run the evaluation of an LLM on the conversation task regarding the bias type of stereotyping, execute the following command:
