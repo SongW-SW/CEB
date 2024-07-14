@@ -25,4 +25,16 @@ Execute the corresponding bash files in ./script. For example, to run the evalua
 bash run_gen_stereotype_conversation.sh
 ```
 
-The specific LLM for evaluation can be specified in the same bash file.
+The specific LLM for evaluation should be specified in the same bash file.
+
+## Citation
+
+If you find our work helpful, please kindly consider citing our paper. Thank you so much for your attention!
+```
+@article{wang2024ceb,
+  title={CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models},
+  author={Wang, Song and Wang, Peng and Zhou, Tong and Dong, Yushun and Tan, Zhen and Li, Jundong},
+  journal={arXiv:2407.02408},
+  year={2024}
+}
+```
