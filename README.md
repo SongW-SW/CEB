@@ -19,4 +19,8 @@ We encourage researchers and developers to utilize and contribute to this benchm
 
 ## Running
 
-Execute the corresponding bash files in ./script
+Execute the corresponding bash files in ./script. For example, to run the evaluation of an LLM on the conversation task regarding the bias type of stereotyping, execute the following command:
+
+> run_gen_stereotype_conversation.sh
+
+The specific LLM for evaluation can be specified in the same bash file.
