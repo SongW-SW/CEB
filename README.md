@@ -12,7 +12,7 @@ The CEB dataset is now publicly available to support further research and develo
 
 **[Dataset Files]**: ```./data```
 
-**[HugginFace Dataset Link]**: [CEB Dataset](https://huggingface.co/datasets/Song-SW/CEB)
+**[HuggingFace Dataset Link]**: [CEB Dataset](https://huggingface.co/datasets/Song-SW/CEB)
 
 **[Dataset Statistics]**:
 
