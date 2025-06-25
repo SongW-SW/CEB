@@ -64,7 +64,7 @@ If you encounter any cases and need help, feel free to contact ```sw3wv@virginia
 
 If you find our work helpful, please kindly consider citing our paper. Thank you so much for your attention!
 ```
-@inproceedings{wang2024ceb,
+@inproceedings{wang2025ceb,
   title={CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models},
   author={Wang, Song and Wang, Peng and Zhou, Tong and Dong, Yushun and Tan, Zhen and Li, Jundong},
   booktitle={ICLR 2025},
