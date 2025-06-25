@@ -68,6 +68,6 @@ If you find our work helpful, please kindly consider citing our paper. Thank you
   title={CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models},
   author={Wang, Song and Wang, Peng and Zhou, Tong and Dong, Yushun and Tan, Zhen and Li, Jundong},
   booktitle={ICLR 2025},
-  year={2024}
+  year={2025}
 }
 ```
